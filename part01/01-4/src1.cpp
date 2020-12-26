@@ -1,4 +1,4 @@
-#include <iostram>
+#include <iostream>
 #include "header.h"
 
 void BestComImpl::SimpleFunc(void) {
